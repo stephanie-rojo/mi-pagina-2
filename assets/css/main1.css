@@ -1,0 +1,193 @@
+/* estilo a header*/
+.navbar-default{
+  background-color: #3E4042;
+  border-color:#3E4042;
+  margin-bottom: 1em;
+}
+.navbar-default .navbar-brand {
+  font-family: 'Numans', sans-serif;
+  color:white;
+  font-size:1.3em;
+  padding-left: 3em;
+}
+.navbar-default .navbar-nav>li>a{
+  color: white;
+  font-family: 'Numans', sans-serif;
+  font-size:1.2em;
+}
+ul{
+  padding-right: 4em;
+}
+
+/* dando estilo a la seccion fondo de pantalla*/
+.second-section{
+  background-image: url(../img/passaport.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  background-color: #D3D3D3;
+  background-blend-mode:hard-light;
+
+}
+h1{
+  color: black;
+  text-align: center;
+  font-family: 'Lilita One', cursive;
+  font-size: 80px;
+  padding-top: 200px;
+  font-weight: bold;
+}
+
+/* dando estilo a seccion textos*/
+.title{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  padding-left: 80px;
+  padding-top: 20px;
+}
+
+.texto-uno{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+  padding-top: 1em;
+  padding-left: 6em;
+  text-align: left;
+}
+h4{
+  font-size: 1.5em;
+  padding-left: 3.9em;;
+  font-weight: bold;
+}
+.texto-dos{
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  padding-left: 5.8em;
+}
+.phone{
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 10px;
+  text-align: left;
+  padding-left: 80px;
+}
+span{
+  color: blue;
+}
+.btn-default{
+  background-color: blue;
+}
+.btn{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: white;
+  font-size: 1.2em;
+  margin-left: 5em;
+}
+
+.title-2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 2em;
+  padding-top: 1em;
+  margin-left: 1em;
+}
+
+.texto-uno-2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+  padding-top: 1em;
+  margin-left:2em;
+  padding-right: 1em;
+  text-align: left;
+}
+.btn-2{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: white;
+  font-size: 1.2em;
+  margin-left: 1.6em;
+}
+.h4{
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-left: 1.3em;
+}
+.texto-dos-3{
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  margin-left: 2em;
+}
+.phone-2{
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 1em;
+  text-align: left;
+  margin-left: 2em;
+}
+
+/*dando estilo a seccion imagenes*/
+.contenido{
+ padding-left: 7em;
+ padding-top: 2em;
+}
+.imagen-texto{
+  border: 1px solid #CCCCCC;
+  height: 36.6em;
+  width: 21.5em;
+}
+.viaje{
+  width: 300px;
+}
+.card{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  margin-top: 0.5em;
+  margin-left: 0.4em;;
+  text-align: left;
+  font-size: 1.5em;;
+}
+.cuadro-texto{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.95em;
+  margin-top: 0.5em;
+  margin-left: 0.6em;
+  text-align: left;
+}
+.box{
+  margin-top: 1em;
+  border: 1px solid  #CCCCCC;
+  background-color:#DCDCDC;
+  height: 4.3em;;
+}
+.boton{
+  background-color: blue;
+  height: 2.5em;
+  width: 8.5em;
+  border-radius: 0.5em;
+  margin-top: 0.5em;
+  margin-left: 1em;
+}
+.find{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding-top: 10px;
+}
+.contenido-2{
+  padding-left: 2em;
+ padding-top: 2em;
+}
+
+/*  dando estilo a footer*/
+.quarter-section{
+  background-color: #3E4042;
+  height: 6em;
+  margin-top: 3.2em;;
+}
+.final{
+  color: white;
+  text-align: center;
+  font-family: 'Numans', sans-serif;
+  font-size: 1.5em;
+  margin-top: 1em;
+}
